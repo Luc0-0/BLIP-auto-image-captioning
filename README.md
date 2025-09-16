@@ -13,7 +13,7 @@ An intelligent web application that automatically generates captions for images 
 
 ## 🚀 Demo
 
-![Demo Screenshot](https://via.placeholder.com/800x400/4CAF50/white?text=AI+Image+Captioning+Demo)
+![Demo Screenshot]https://github.com/Luc0-0/BLIP-auto-image-captioning/issues/1#issue-3421059847
 
 ### Example Outputs:
 - **Input**: `https://example.com/cat.jpg`
